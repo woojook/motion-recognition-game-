@@ -6,7 +6,7 @@ A desktop quiz game in Python where you identify an object from nothing but its 
 
 ![Demo of the three views: original video, Moving mode, Trail mode](docs/demo.gif)
 
-*Rendered by the game's own `src/videoProcessor.py` on three of the bundled clips. A full-quality version is in [`docs/demo.mp4`](docs/demo.mp4).*
+*Rendered by the game's own `src/videoProcessor.py` on three of the bundled clips. A full-quality version is in [`objectguess.mp4`](docs/objectguess.mp4).*
 
 ---
 
